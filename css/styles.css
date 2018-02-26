@@ -1,0 +1,33 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Anton', sans-serif;
+}
+
+.carousel-caption{
+  background-color: rgba(0,0,0,0.2);
+}
+
+.SocialsSection{
+  background: linear-gradient(to bottom, #000000 0%, #ffffff 100%);
+  color: #fff;
+}
+
+footer{
+  background: linear-gradient(to bottom, #ffffff 0%, #9900cc 100%);
+  color: #000;
+}
+
+.modal-content{
+  background-color: red;
+}
+
+.btn-primary{
+  background-color: #bada55;
+}
+
+.carousel-item img{
+  margin-left: 25%;
+}
